@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @human-ayush :)
 - 👀 I’m interested in coding .
 - 🌱 I’m currently learning Computer Science & Engineering .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Coding is learnig Humans :)
 
 <!---
